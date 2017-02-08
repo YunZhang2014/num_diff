@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/num_diff.iml" filepath="$PROJECT_DIR$/.idea/modules/num_diff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/num_diff_main.iml" filepath="$PROJECT_DIR$/.idea/modules/num_diff_main.iml" group="num_diff" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/num_diff_test.iml" filepath="$PROJECT_DIR$/.idea/modules/num_diff_test.iml" group="num_diff" />
+    </modules>
+  </component>
+</project>
